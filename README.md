@@ -81,7 +81,7 @@ python main.py
 - 🌎 **Integración con base de datos en la nube.**
 - 📱 **Versión móvil con interfaz táctil.**
 - 🔥 **Nuevos modos de juego personalizados.**
--**Descarga la demo aca:** https://drive.google.com/file/d/1aNuV9A0EmNT0qcz0CEW1ZLTW-B_ACDu4/view?usp=drive_link
+- **Descarga la demo aca:** https://drive.google.com/file/d/1aNuV9A0EmNT0qcz0CEW1ZLTW-B_ACDu4/view?usp=drive_link
 
 ---
 🎯 **Desarrollado con pasión por [Eliseo Monjes](https://github.com/israelmonjes).** 💡✨
